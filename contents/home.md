@@ -1,7 +1,6 @@
 
 
-[![yanqing2848](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073本科生)
-
+[![yanqing2848-bot](https://img.shields.io/badge/yanqing2848-github-blue?logo=github)](https://github.com/yanqing2848-bot)](https://img.shields.io/badge/yanqing2848-bot-github-blue?logo=github)](https://github.com/yanqing2848-bot)
 He is currently an undergraduate student at Jiangsu University.
 
 #### Contact
